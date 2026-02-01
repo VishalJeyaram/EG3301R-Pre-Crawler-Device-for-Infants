@@ -1,7 +1,7 @@
 # EG3301R Pre-Crawler Device for Infants, Team EIM-306, National University of Singapore
 
 
-# Year 2 Academic Year 2021-2022, Semester 2 to Year 3 Academic Year 2022-2023, Semester 1 
+## Year 2 Academic Year 2021-2022, Semester 2 to Year 3 Academic Year 2022-2023, Semester 1 
 
 This is our team project for the module CS2113T Software Engineering & Object-Oriented Programming in which we designed and developed a Pre-Crawler Device for Infants. It is an assistive rehabilitation system designed to support infants with Cerebral Palsy and other neuromotor disorders during early-stage motor development. The goal of the project was to create a safe, automated device that guides infants through repeated crawling motions, helping to stimulate neuroplasticity and promote foundational motor skills during a critical developmental period.
 
