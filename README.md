@@ -1,4 +1,4 @@
-# EG3301R Pre-Crawler Device for Infants Graphical User Interface (GUI), Team EIM-306, National University of Singapore
+# EG3301R Pre-Crawler Device for Infants Python Scripts, Team EIM-306, National University of Singapore
 
 
 ## Year 2 Academic Year 2021-2022, Semester 2 to Year 3 Academic Year 2022-2023, Semester 1 
